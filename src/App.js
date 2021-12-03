@@ -6,21 +6,24 @@ var movies = {
       name: "Tanhaji -the unsung warrior",
       rating: 7.2
     },
-    { name: "Antim", rating: 9.2 }
+    { name: "Antim", rating: 9.2 },
+    { name : "sanju", rating: 7.7 }
   ],
   HOLLYWOOD: [
     {
       name: " The Wolf of Wall Street ",
       rating: 8.3
     },
-    { name: " Miracle in Cell No. 7 ", rating: 8.4 }
+    { name: " Miracle in Cell No. 7 ", rating: 8.4 },
+    {name : "The pursuit of happiness", rating: 8.0}
   ],
   TOLLYWOOD: [
     {
       name: "Ellam Sheriyakum",
       rating: 9.3
     },
-    { name: "Ram Asur", rating: 9.2 }
+    { name: "Ram Asur", rating: 9.2 },
+    {name: "Baahubali" , rating : 8.2 }
   ]
 };
 
